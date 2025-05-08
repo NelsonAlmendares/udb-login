@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "431263530225",
+    "project_id": "udb-login-d7d2e",
+    "storage_bucket": "udb-login-d7d2e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431263530225:android:519a049c3d4c39225bfd50",
+        "android_client_info": {
+          "package_name": "com.loginudb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431263530225-nc262sdub246igmj6c3ngd17tbbms8n5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNURmfAFW3-V0pKVfhzzhpF7n2i24O8F4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431263530225-nc262sdub246igmj6c3ngd17tbbms8n5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
